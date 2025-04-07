@@ -15,6 +15,7 @@ function Contador() {
       <h2>Componente Contador</h2>
       <p>O numero atual é: {num}</p>
       <button onClick={somar}>Aumentar +1 </button>
+      
     </div>
   )
 }
